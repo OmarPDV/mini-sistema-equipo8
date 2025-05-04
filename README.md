@@ -1,3 +1,14 @@
+Tecnologías Computacionales II 
+Minisistema con GitHub 
+
+Integrantes: 
+
+Karla Fernanda Vázquez Ávila 
+
+Juan De Dios Zarate Garces 
+
+Omar Mondragón Arzate 
+
  Gestor de Tareas en Consola
 
 Este proyecto permite crear, listar, completar y eliminar tareas desde una interfaz de consola simple en Python.
